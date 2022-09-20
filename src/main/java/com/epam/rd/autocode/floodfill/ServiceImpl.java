@@ -1,6 +1,5 @@
 package com.epam.rd.autocode.floodfill;
 
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class ServiceImpl implements FloodFill {
